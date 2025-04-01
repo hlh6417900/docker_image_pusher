@@ -1,1 +1,1 @@
-docker.io/calico/apiserver:v3.26.4
+plexinc/pms-docker:1.41.5.9522-a96edc606
