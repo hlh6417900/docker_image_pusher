@@ -1,2 +1,2 @@
 nginx
-0nlylty/dockercopilot:latest
+0nlylty/dockercopilot:v2.0.9
