@@ -1,2 +1,2 @@
 nginx
-onlyLTY/dockerCopilotZspace:v2.0.8-zspace
+0nlylty/dockercopilot:latest
