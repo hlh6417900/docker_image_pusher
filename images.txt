@@ -1,2 +1,2 @@
 nginx
-dzhuang/tinymediamanager:latest
+tinymediamanager/tinymediamanager:4.3.13
