@@ -1,2 +1,2 @@
 nginx
-docker pull dzhuang/tinymediamanager:latest-v5
+docker pull dzhuang/tinymediamanager:v5.0.4
