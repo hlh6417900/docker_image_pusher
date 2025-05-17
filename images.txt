@@ -1,2 +1,2 @@
 nginx
-tinymediamanager/tinymediamanager:4.3.13
+tinymediamanager/tinymediamanager:4.3.3
