@@ -1,2 +1,2 @@
 nginx
-dzhuang/tinymediamanager:latest-v5
+xhofe/alist:v3.44.0
