@@ -1,2 +1,2 @@
 nginx
-plexinc/pms-docker：latest
+plexinc/pms-docker：1.41.8.9834
