@@ -1,3 +1,3 @@
 nginx
 plexinc/pms-docker:1.41.8.9834
-alist666/alist:v3.45.0
+alist:v3.45.0
