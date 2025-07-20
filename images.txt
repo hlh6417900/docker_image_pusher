@@ -1,1 +1,2 @@
 plexinc/pms-docker:1.41.9.9961-46083195d
+one-key-update:zspace
