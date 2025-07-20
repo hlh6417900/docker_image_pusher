@@ -1,1 +1,1 @@
-openlist:v4.0.8
+openlistteam/openlist:v4.0.8
