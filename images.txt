@@ -1,1 +1,1 @@
-xhongc/music_tag_web:latest
+plexinc/pms-docker：v1.42.1
