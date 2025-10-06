@@ -1,1 +1,3 @@
 plexinc/pms-docker:1.42.1.10054-f333bdaa8
+dockerproxy.com/homeassistant/home-assistant:latest  
+
