@@ -1,2 +1,1 @@
-homeassistant/home-assistant:latest  
-networkupstools/wmnut:latest
+ networkupstools/wmnut:latest
