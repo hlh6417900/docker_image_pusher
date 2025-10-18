@@ -1,1 +1,1 @@
-1panel-dev/1panel:latest
+linkease/istorepanel:latest
