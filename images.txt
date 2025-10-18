@@ -1,1 +1,1 @@
-1Panel-dev/1Panel:latest
+1panel-dev/1panel:latest
