@@ -1,1 +1,2 @@
-linkease/istorepanel:latest
+plexinc/pms-docker:latest
+xhongc/music-tag-web:latest
