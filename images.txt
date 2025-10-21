@@ -1,1 +1,1 @@
-deluan/navidrome:latest
+plexinc/pms-docker:latest
