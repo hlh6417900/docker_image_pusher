@@ -1,1 +1,1 @@
-emby/embyserver:latest
+lovechen/embyserver:latest
