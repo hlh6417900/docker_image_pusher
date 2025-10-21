@@ -1,2 +1,1 @@
-mediabrowser/emby:latest
-
+MediaBrowser/Emby:latest
