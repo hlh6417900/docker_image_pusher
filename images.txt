@@ -1,1 +1,8 @@
+homeassistant/home-assistant:latest  
+networkupstools/wmnut:latest
+plexinc/pms-docker:latest
+linkease/istorepanel:latest
+xhongc/music_tag_web:latest
+cloudnas/clouddrive2:latest
 tinymediamanager/tinymediamanager:latest
+emby/embyserver:latest
