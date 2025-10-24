@@ -1,5 +1,4 @@
 homeassistant/home-assistant:latest  
-networkupstools/wmnut:latest
 plexinc/pms-docker:latest
 linkease/istorepanel:latest
 xhongc/music_tag_web:latest
