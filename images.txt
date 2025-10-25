@@ -1,1 +1,1 @@
-ix64/unlock-music/releases:latest
+ix64/unlock-music:latest
