@@ -1,1 +1,1 @@
-xieansecn/unlockmusic-react:latest
+unlock-music/unlock-music:latest
