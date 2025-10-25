@@ -1,1 +1,1 @@
-unlock-music/unlock-music:latest
+unlock-music/releases:latest
