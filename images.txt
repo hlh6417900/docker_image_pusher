@@ -1,1 +1,1 @@
-ix64/unlock-music:latest
+docker.io/jc21/nginx-proxy-manager:latest
