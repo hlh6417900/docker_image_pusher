@@ -1,2 +1,2 @@
-codepiee/Nginx-Proxy-Manager:latest
+chishin/nginx-proxy-manager-zh::latest
 xxoolm/unlock-music:latest
