@@ -1,2 +1,1 @@
-chishin/nginx-proxy-manager-zh:latest
-ix64/unlock-music:latest
+ipid/unlock-music:latest
