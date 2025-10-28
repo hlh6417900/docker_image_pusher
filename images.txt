@@ -1,1 +1,2 @@
 codepiee/Nginx-Proxy-Manager:latest
+xxoolm/unlock-music:latest
