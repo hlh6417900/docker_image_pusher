@@ -1,4 +1,3 @@
-rong6/unlock-music:latest
 xhongc/music_tag_web:latest
 openlistteam/openlist
 0nlylty/dockercopilot:latest
