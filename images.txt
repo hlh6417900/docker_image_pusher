@@ -7,4 +7,4 @@ ghcr.io/fish2018/pansou-web:latest
 rustdesk/rustdesk-server-s6:latest
 neosmemo/memos:0.26.2
 homeassistant/home-assistant:latest
-1Panel-dev/1Panel
+1panel-dev/1panel
